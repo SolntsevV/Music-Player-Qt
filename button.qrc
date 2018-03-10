@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/play_button.gif</file>
+        <file>Resource/media_playback_pause.png</file>
+        <file>Resource/stop_icon.jpg</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/logo.png</file>
+        <file>Resource/next.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/play.png</file>
+    </qresource>
+</RCC>

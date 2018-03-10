@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Resource/exit.png</file>
+        <file>Resource/logo.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/play.png</file>
+        <file>Resource/pause.png</file>
+        <file>Resource/stop.png</file>
+    </qresource>
+</RCC>
